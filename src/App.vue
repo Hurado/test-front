@@ -12,8 +12,8 @@ const questions = ref({
     "A framework JS",
     "A library JS",
     "Extension for JS",
-    "Another Language"
-  ]
+    "Another Language",
+  ],
 });
 </script>
 
